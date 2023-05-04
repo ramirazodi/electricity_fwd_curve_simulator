@@ -2,6 +2,8 @@
 
 This project simulates forward curves for commodity prices using a Monte Carlo simulation. It takes a set of input parameters, such as price, volatility, and correlations, from an Excel file, simulates price paths, and then visualizes the results using Plotly.
 
+![Simulation Results Plot](./sim_results_plot.png)
+
 ## Overview
 
 The script performs the following tasks:
